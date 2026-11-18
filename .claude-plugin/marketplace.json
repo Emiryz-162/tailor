@@ -1,0 +1,11 @@
+{
+  "name": "tailor",
+  "owner": { "name": "Emiryz-162", "url": "https://github.com/Emiryz-162" },
+  "plugins": [
+    {
+      "name": "tailor",
+      "source": "./",
+      "description": "Tailor-made websites instead of off-the-rack AI templates."
+    }
+  ]
+}

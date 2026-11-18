@@ -1,0 +1,8 @@
+{
+  "name": "tailor",
+  "version": "0.1.0",
+  "description": "Tailor-made websites instead of off-the-rack AI templates: your story and references become a STYLE-DNA, the site is built from it and checked for AI slop.",
+  "author": { "name": "Emiryz-162", "url": "https://github.com/Emiryz-162" },
+  "license": "MIT",
+  "keywords": ["design", "website", "frontend", "anti-slop", "style"]
+}
