@@ -1,6 +1,7 @@
 {
   "name": "tailor",
   "owner": { "name": "Emiryz-162", "url": "https://github.com/Emiryz-162" },
+  "metadata": { "description": "Tailor: a Claude skill for tailor-made, non-generic websites built from your own story and references." },
   "plugins": [
     {
       "name": "tailor",
